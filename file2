@@ -2,3 +2,4 @@ practiced linux commands
 cd     to change directories 
 cd /   move to the root directory
 cd ..  move one level up
+cd <directory_name>  to change to a particular directory
