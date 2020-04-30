@@ -1,4 +1,4 @@
 practiced linux commands
-cd     
-cd /   
-cd ..  
+cd     to change directories 
+cd /   move to the root directory
+cd ..  move one level up
